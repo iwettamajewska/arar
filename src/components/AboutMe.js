@@ -1,9 +1,3 @@
-const dietetician = {
-  name: "Anna Redler",
-  description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-};
-
 const AboutMe = () => {
   return (
     <section id="about-us" className="about-us-container">
